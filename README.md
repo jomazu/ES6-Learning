@@ -35,10 +35,10 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [Summary of ECMAScript 6 major features](http://ryandao.net/summary-ecmascript-6-major-features/)
 1. [5 Great Features in EcmaScript 6 (ES6 Harmony)](http://wintellect.com/blogs/nstieglitz/5-great-features-in-es6-harmony)
 1. An introduction to ES6
-  * [Part 1: Using ES6 Today](http://globaldev.co.uk/2013/09/es6-part-1/)
-  * [Part 2: Block Scoping](http://globaldev.co.uk/2013/09/es6-part-2/)
-  * [Part 3: Destructuring](http://globaldev.co.uk/2013/10/es6-part-3/)
-  * [Part 4: Parameters and Spread](http://globaldev.co.uk/2013/10/es6-part-4/)
+  * [Part 1: Using ES6 Today](http://dev.venntro.com/2013/09/es6-part-1/)
+  * [Part 2: Block Scoping](http://dev.venntro.com/2013/09/es6-part-2/)
+  * [Part 3: Destructuring](http://dev.venntro.com/2013/10/es6-part-3/)
+  * [Part 4: Parameters and Spread](http://dev.venntro.com/2013/10/es6-part-4/)
 1. [ECMAScript 6: Jump in, the water is warm!](http://flippinawesome.org/2014/04/14/ecmascript-6-jump-in-the-water-is-warm/)
 1. [ECMAScript 6 – Playing around in Harmony](http://thejackalofjavascript.com/es6-playing-around-in-harmony/)
 1. [Playing with iterators and generators in ECMAScript 6](http://macr.ae/article/iterators-and-generators.html)
@@ -61,7 +61,8 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ES6 In Depth articles by Nicolas Bevacqua](https://ponyfoo.com/articles/tagged/es6-in-depth)
 1. [ES6 Overview in 350 Bullet Points by Nicolas Bevacqua](https://ponyfoo.com/articles/es6)
 1. [ECMAScript 6 Overview in simple terms](https://github.com/imalitavakoli/learn-es6)
-2. [Using ES6 at work](http://xarnze.com/article/ES6,%20ECMAScript2015)
+1. [Using ES6 at work](http://xarnze.com/article/ES6,%20ECMAScript2015)
+1. [ES6 for Humans - Kickstarter Guide to writing ES6](https://github.com/metagrover/ES6-for-humans)
 
 ## Books
 
@@ -73,6 +74,9 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [JavaScript Allongé, The "Six" Edition](https://leanpub.com/javascriptallongesix)
 1. [Setting Up ES6](https://leanpub.com/setting-up-es6) - [Read Online](https://leanpub.com/setting-up-es6/read)
 1. [Exploring ES6](https://leanpub.com/exploring-es6)
+1. [ECMAScript 6 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/ECMAScript_6_Succinctly)
+1. [Let's Learn ES6](https://letslearnes6.com/)
+1. [ES6 in Practice](https://leanpub.com/es6-in-practice)
 
 ## Built with ES6
 
@@ -84,7 +88,11 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [What’s Coming to JavaScript - Tuts+](https://tutsplus.com/course/whats-coming-to-javascript/)
 1. [JavaScript Fundamentals for ES6 - Pluralsight](http://www.pluralsight.com/courses/javascript-fundamentals-es6)
 1. [JS.Next: ES6 - Frontend Masters](https://frontendmasters.com/courses/jsnext-es6/)
-2. [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
+1. [Say Hello to ES2015](https://tutor.mantrajs.com/say-hello-to-ES2015/introduction)
+1. [ES6 For Everyone](https://es6.io)
+1. [Rapid ES6 Training - Pluralsight ](https://www.pluralsight.com/courses/rapid-es6-training)
+1. [ES2015 Crash Course](https://laracasts.com/series/es6-cliffsnotes)
+1. [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview)
 
 ## Learn with Code
 
@@ -108,6 +116,7 @@ Just send a pull request or open an [issue](https://github.com/ericdouglas/ES6-L
 1. [ES6 - the let keyword](http://tagtree.tv/ecmascript-6-let)
 1. [ECMAscript 6 Lessons - egghead.io](https://egghead.io/technologies/es6)
 1. [Ode to Code](http://odetocode.com/videos)
+1. ES6 Tutorial for Beginners [part 01](https://www.youtube.com/watch?v=JVKFTS9duIo) | [part 02](https://www.youtube.com/watch?v=OV_EPRUgvxo)
 
 ## Slides
 
